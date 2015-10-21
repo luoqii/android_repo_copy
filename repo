@@ -3,7 +3,7 @@
 ## repo default configuration
 ##
 #REPO_URL = 'https://gerrit.googlesource.com/git-repo'
-REPO_URL = 'https://raw.githubusercontent.com/luoqii/repo/stable/repo'
+REPO_URL = 'https://github.com/luoqii/repo'
 REPO_REV = 'stable'
 
 # Copyright (C) 2008 Google Inc.
